@@ -1,4 +1,4 @@
-<img src="https://emoji.gg/assets/emoji/wavegif_1860.gif" alt=":wave:" />
+<img src="https://a.pomf.cat/afhjzi.gif" alt=":wave:" />
 
 ---
 
