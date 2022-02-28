@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/cnrad/cnrad/main/wave.svg" alt=":wave:" />
+<img src="https://emoji.gg/assets/emoji/wavegif_1860.gif" alt=":wave:" />
 
 ---
 
