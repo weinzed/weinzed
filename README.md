@@ -1,4 +1,4 @@
-<img src="https://a.pomf.cat/afhjzi.gif" alt=":wave:" />
+<img src="https://a.pomf.cat/bxtaxk.gif" alt=":wave:" />
 
 ---
 
