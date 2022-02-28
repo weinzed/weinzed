@@ -8,4 +8,5 @@
 
 - 🖥️ Frontend:
   - PHP/HTML
+  - Learning C#
 
