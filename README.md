@@ -7,6 +7,8 @@
 </a>
 
 - 🖥️ Frontend:
-  - PHP/HTML
+  - HTML
   - Learning C#
 
+- 🛠️ Backend:
+  - PHP / cURL
