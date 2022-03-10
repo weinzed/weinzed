@@ -8,7 +8,6 @@
 
 - 🖥️ Frontend:
   - HTML
-  - Learning C#
 
 - 🛠️ Backend:
   - PHP / cURL
