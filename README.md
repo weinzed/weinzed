@@ -1,4 +1,4 @@
-<img src="https://www.icegif.com/wp-content/uploads/2021/12/icegif-788.gif" alt="erenzy nuke" />
+<img src="https://www.icegif.com/wp-content/uploads/2021/12/icegif-788.gif" width="100" height="100" alt="erenzy nuke" />
 
 ---
 
