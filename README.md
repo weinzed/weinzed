@@ -1,4 +1,4 @@
-<img src="https://a.pomf.cat/hvjqjk.gif" alt="erenzy nuke" />
+<img src="https://i.pinimg.com/originals/7f/1d/b9/7f1db9fc126b8ac2d2047bb280cc60d1.gif" alt="erenzy nuke" />
 
 ---
 
