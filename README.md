@@ -8,7 +8,10 @@
 
 Programming languages i know;
 
-○ PHP
-○ Python
-○ C#
-○ HTML
+◦ PHP
+<br>
+◦ Python
+<br>
+◦ C#
+<br>
+◦ HTML
