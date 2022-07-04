@@ -14,6 +14,5 @@ Programming languages i know;
 <br>
 ◦ C#
 <br>
-◦ HTML
 
 💼 For contact: hi@weinzed.org
