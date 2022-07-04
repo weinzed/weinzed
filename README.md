@@ -14,5 +14,6 @@ Programming languages i know;
 <br>
 ◦ C#
 <br>
+◦ Batch
 
 💼 For contact: hi@weinzed.org
