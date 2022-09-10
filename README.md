@@ -16,4 +16,9 @@ Programming languages I know:
 <br>
 ◦ Batch
 
+Planning to learn:
+
+◦ Javascript
+<br>
+
 💼 For contact: hi@weinzed.com
