@@ -15,10 +15,12 @@ Programming languages I know:
 ◦ C#
 <br>
 ◦ Batch
+<br>
+◦ Javascript
 
 Planning to learn:
 
-◦ Javascript
+◦ <del>Javascript</del>
 <br>
 
 💼 For contact: hi@weinzed.com
