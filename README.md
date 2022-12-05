@@ -3,7 +3,7 @@
 ---
 
 <a href="https://discord.com/users/943219154905874433">
-  <img src="https://lanyard-profile-readme.vercel.app/api/1016640413324562483?hideTimestamp=true&idleMessage=AFK..." align="right" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/1044375417169137675?hideTimestamp=true&idleMessage=AFK..." align="right" />
 </a>
 
 Programming languages I know:
