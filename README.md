@@ -5,8 +5,10 @@
 
 - 📫 How to reach me **mailto:hi@weinzed.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="right">
+  <a href="https://discord.com/users/943219154905874433">
+  <img src="https://komarev.com/ghpvc/?username=weinzed&color=dc143c" align="right" />
+</a>
 </p>
 
 ## 🛠 Skills
