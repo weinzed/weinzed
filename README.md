@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C++**
 
-- 📫 How to reach me **mailto:hi@weinzed.com**
+- 📫 How to reach me **hi@weinzed.com**
 
 <p align="right">
   <a href="https://weinzed.com">
