@@ -6,7 +6,7 @@
 - 📫 How to reach me **mailto:hi@weinzed.com**
 
 <p align="right">
-  <a href="https://discord.com/users/943219154905874433">
+  <a href="https://weinzed.com">
   <img src="https://komarev.com/ghpvc/?username=weinzed&color=dc143c" align="right" />
 </a>
 </p>
